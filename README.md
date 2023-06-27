@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Working with Zebrands<br>Learning React.JS
+Currently Working with NatGas<br>Learning Spring
 
 
 ## 🌐 Socials:
