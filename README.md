@@ -7,10 +7,7 @@ Currently Working with NatGas<br>Learning Spring
 
 # 💻 Tech Stack:
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DiegoSandovalV&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DiegoSandovalV&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSandovalV&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 [![Diego's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiegoSandovalV&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
