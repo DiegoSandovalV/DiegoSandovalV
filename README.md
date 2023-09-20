@@ -12,7 +12,7 @@ Currently Working with NatGas<br>Learning Spring
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DiegoSandovalV&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSandovalV&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Diego's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiegoSandovalV&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Diego's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiegoSandovalV&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DiegoSandovalV&icon=0&color=1)](https://visitcount.itsvg.in)
