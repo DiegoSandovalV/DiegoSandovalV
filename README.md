@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Working with NatGas<br>Learning Spring
+Ex-Google Intern<br>Working with CareMates
 
 
 ## 🌐 Socials:
