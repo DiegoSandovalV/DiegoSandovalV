@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ex-Google Intern<br>Working with CareMates
+Google SWE
 
 
 ## 🌐 Socials:
